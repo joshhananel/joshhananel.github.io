@@ -1,0 +1,40 @@
+h1 {
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: #000;
+    font-family: 'Georgia', sans-serif;
+    text-align: left;
+}
+
+#logo-name {
+    color: #000;
+    font-family: 'Linux Libertine', serif;
+    text-align: center;
+}
+
+img {
+    float: right;
+    max-width: 50%;
+    height: auto;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.facts {
+    background-color: #61606038;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 5px;
+    width: 43%;
+}
+
+.caption {
+    font-size: 1.1em;
+    font-style: italic;
+    text-align: right;
+    color: #4b4b4b;
+}
