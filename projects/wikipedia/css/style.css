@@ -1,17 +1,15 @@
 h1 {
-    color: #000;
     font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
 
 h2 {
-    color: #000;
     font-family: 'Georgia', sans-serif;
     text-align: left;
 }
 
 #logo-name {
-    color: #000;
+    color: #6c48ed;
     font-family: 'Linux Libertine', serif;
     text-align: center;
 }
@@ -37,4 +35,8 @@ img {
     font-style: italic;
     text-align: right;
     color: #4b4b4b;
+}
+
+.facts h2 {
+    font-size: 0.95em;
 }
