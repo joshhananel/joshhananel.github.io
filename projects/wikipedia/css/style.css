@@ -2,18 +2,15 @@ h1 {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
-
 h2 {
     font-family: 'Georgia', sans-serif;
     text-align: left;
 }
-
 #logo-name {
     color: #6c48ed;
     font-family: 'Linux Libertine', serif;
     text-align: center;
 }
-
 img {
     float: right;
     max-width: 50%;
@@ -21,7 +18,6 @@ img {
     padding: 15px;
     border-radius: 10px;
 }
-
 .facts {
     background-color: #61606038;
     padding: 10px;
@@ -29,14 +25,12 @@ img {
     border-radius: 5px;
     width: 43%;
 }
-
 .caption {
     font-size: 1.1em;
     font-style: italic;
     text-align: right;
     color: #4b4b4b;
 }
-
 .facts h2 {
     font-size: 0.95em;
 }
