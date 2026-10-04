@@ -1,0 +1,58 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: #0b3205;
+    color: #fff;
+}
+p {
+    font-family: Verdana, sans-serif;
+}
+h1 {
+    font-size: 3em;
+    font-family: Palatino, serif;
+    text-align: center;
+}
+h2 {
+    font-size: 1em;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    color: #8e9f6c;
+}
+h3 {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-family: "Times New Roman", Times, serif;
+}
+header {
+    margin: 2em 1em;
+}
+footer {
+    text-align: center;
+    padding: 1em;
+    font-size: 0.8em;
+    color: #8e9f6c;
+}
+.container-2 {
+    margin: 2em;
+    padding: 2em;
+}
+.container-hours {
+    margin: 4em;
+    padding: 3em;
+    border: 1px solid #d0d7c3;
+    background-color: #d0d7c3;
+    text-align: center;
+    color: #041103;
+}
+.container-menu {
+    margin: 2em;
+    padding: 2em;
+    border: 1px solid #d0d7c3;
+    background-color: #d0d7c3;
+    text-align: center;
+    text-transform: uppercase;
+}
+.container-divider {
+    margin: 2em;
+    border: 1px solid #d0d7c3;
+    background-color: #d0d7c3;
+}
