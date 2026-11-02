@@ -41,16 +41,15 @@ nav {
     text-align: left;
 }
 
-.vertical-line {
-    height: 700px;
-    width: 10px;
-    background-color: black;
-    margin: 100px auto;
-
-}
 
 .bi {
     text-align: center;
     font-size: 1.2em;
     color: black;
+}
+
+p {
+    font-size: .8em;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
 }
